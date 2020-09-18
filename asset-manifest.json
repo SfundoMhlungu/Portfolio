@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.de09027b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.62be0660.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.62be0660.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.cfbe7937.chunk.js": "/Portfolio/static/js/2.cfbe7937.chunk.js",
+    "static/js/2.cfbe7937.chunk.js.map": "/Portfolio/static/js/2.cfbe7937.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.1e20b2a1c68f640f499a7517ce2aa374.js": "/Portfolio/precache-manifest.1e20b2a1c68f640f499a7517ce2aa374.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.de09027b.chunk.css.map": "/Portfolio/static/css/main.de09027b.chunk.css.map",
+    "static/js/2.cfbe7937.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.cfbe7937.chunk.js.LICENSE.txt",
+    "static/media/Admin.png": "/Portfolio/static/media/Admin.7b8dfa6f.png",
+    "static/media/Calculatir.png": "/Portfolio/static/media/Calculatir.1ff1c47d.png",
+    "static/media/Dope bot.jpg": "/Portfolio/static/media/Dope bot.10fc3bee.jpg",
+    "static/media/Drum Machine.png": "/Portfolio/static/media/Drum Machine.af153018.png",
+    "static/media/Exitium.png": "/Portfolio/static/media/Exitium.699582d4.png",
+    "static/media/Markdown actual code.png": "/Portfolio/static/media/Markdown actual code.1e94b863.png",
+    "static/media/Markdown preview.png": "/Portfolio/static/media/Markdown preview.6fc21e9c.png",
+    "static/media/Pomodoro clock.png": "/Portfolio/static/media/Pomodoro clock.90378a10.png",
+    "static/media/Random vs MinMax.png": "/Portfolio/static/media/Random vs MinMax.22cdf7d9.png",
+    "static/media/bayesian-2889576_640.png": "/Portfolio/static/media/bayesian-2889576_640.38829975.png",
+    "static/media/style.css": "/Portfolio/static/media/business-1839876_1920.e005eb78.jpg",
+    "static/media/github (2).png": "/Portfolio/static/media/github (2).b6ec19ce.png",
+    "static/media/me siting.jpg": "/Portfolio/static/media/me siting.d803d7f7.jpg",
+    "static/media/sfundoDevimg.jpg": "/Portfolio/static/media/sfundoDevimg.9ac8e3c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.cfbe7937.chunk.js",
+    "static/css/main.de09027b.chunk.css",
+    "static/js/main.62be0660.chunk.js"
+  ]
+}
