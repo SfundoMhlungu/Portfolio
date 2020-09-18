@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.de09027b.chunk.css",
+    "main.css": "/Portfolio/static/css/main.fff8d843.chunk.css",
     "main.js": "/Portfolio/static/js/main.62be0660.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.62be0660.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
@@ -8,9 +8,9 @@
     "static/js/2.cfbe7937.chunk.js": "/Portfolio/static/js/2.cfbe7937.chunk.js",
     "static/js/2.cfbe7937.chunk.js.map": "/Portfolio/static/js/2.cfbe7937.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.1e20b2a1c68f640f499a7517ce2aa374.js": "/Portfolio/precache-manifest.1e20b2a1c68f640f499a7517ce2aa374.js",
+    "precache-manifest.f3f21cd2525b899a21346fbc80bf0c9d.js": "/Portfolio/precache-manifest.f3f21cd2525b899a21346fbc80bf0c9d.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.de09027b.chunk.css.map": "/Portfolio/static/css/main.de09027b.chunk.css.map",
+    "static/css/main.fff8d843.chunk.css.map": "/Portfolio/static/css/main.fff8d843.chunk.css.map",
     "static/js/2.cfbe7937.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.cfbe7937.chunk.js.LICENSE.txt",
     "static/media/Admin.png": "/Portfolio/static/media/Admin.7b8dfa6f.png",
     "static/media/Calculatir.png": "/Portfolio/static/media/Calculatir.1ff1c47d.png",
@@ -22,15 +22,15 @@
     "static/media/Pomodoro clock.png": "/Portfolio/static/media/Pomodoro clock.90378a10.png",
     "static/media/Random vs MinMax.png": "/Portfolio/static/media/Random vs MinMax.22cdf7d9.png",
     "static/media/bayesian-2889576_640.png": "/Portfolio/static/media/bayesian-2889576_640.38829975.png",
-    "static/media/style.css": "/Portfolio/static/media/business-1839876_1920.e005eb78.jpg",
     "static/media/github (2).png": "/Portfolio/static/media/github (2).b6ec19ce.png",
+    "static/media/style.css": "/Portfolio/static/media/lcd-2059995_1280.113f37b3.png",
     "static/media/me siting.jpg": "/Portfolio/static/media/me siting.d803d7f7.jpg",
     "static/media/sfundoDevimg.jpg": "/Portfolio/static/media/sfundoDevimg.9ac8e3c2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e440ee5a.js",
     "static/js/2.cfbe7937.chunk.js",
-    "static/css/main.de09027b.chunk.css",
+    "static/css/main.fff8d843.chunk.css",
     "static/js/main.62be0660.chunk.js"
   ]
 }
