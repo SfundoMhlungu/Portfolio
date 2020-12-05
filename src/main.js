@@ -71,7 +71,7 @@ export class Main extends Component {
                             <h1 className="section__title section__title--intro">
                                 Hi, I am <strong>Sfundo Mhlungu</strong>
                             </h1>
-                            <p className="section__subtitle section__subtitle--intro" >full stack/game/ML developer</p>
+                            <p className="section__subtitle section__subtitle--intro" >Hybrid Software/game/ML developer</p>
                             <img src={require("./sfundoDevimg.jpg")} alt=""  className="intro__img"></img>
                         </section>
         
@@ -80,33 +80,32 @@ export class Main extends Component {
                            <h2 className="section__title section__title--services">What i do</h2>
                            <div className="services">
                                <div className="service">
-                                   <h3>Full stack(mainly JavaScript)</h3>
+                                   <h3>Front end & Hybrid software developer</h3>
                                    <p>
-                                      I can develop both web and Pc/mobile applications using web technologies such <strong> electron js
-                                      react, angular js, ionic, cordova, native script etc </strong> also took <strong>full stack Web and Multi plartform Mobile App dev specialization</strong> from 
-                                      Hong Kong Uni
+                                    I develop hybrid applications(1 code base for different platforms) with ionic and electron js using angular, bootstrap and react as frontend, cordova and capacitor to target native APIs <strong> 
+                                  i believe in optimization and efficiency therefore I incoporate webassembly when neccessary for speed, intense computation, security and efficiency, also following cutting edge paradigms for problem solving: dynamic programming - form of algorithmic thinking, functional programming - data driven and security design </strong> 
+                                  i have strong foundation of first principles for programming(from nand gates, machine code, assembly, virtual machine to programming languages), allowing me to migrate to any language or framework in a crash courses time
                                    </p> 
         
         
                                </div>
         
                                <div className="service">
-                                   <h3>indie game dev(C# and the like)</h3>
+                                   <h3>indie game dev(unity3d game engine)</h3>
                                    <p>
                                   I also make games with unity, i migrated from Godot to unity3d, i can create a game(mostly 2d) from start
                                   to finish, <strong>i am well versed in the 2d pipeline from creating art, exporting and preparing, coding and 
-                                  audio</strong>. having taken a game dev and design specilization from Michigan State Uni(coursera)
+                                  audio</strong>. i have specific interest for user experience and retention, hence i studied user experience and behaviour, game design principles which can be applied in many areas of engineering
                                    </p>
                                    
         
                                </div>
         
                                <div className="service">
-                                   <h3>Machine Learning(python)</h3>
+                                   <h3>Applied Machine Learning(python)</h3>
                                    <p>
                                       <strong> From Applied Machine Learning to Natural Language Processing</strong>, i am more geared towards NLP
-                                       Having taken Deeplearning.ai specilization in NLP, also Applied Machine Learning specilization
-                                       from Michigan State University thru coursera,
+                                       , which includes sentiment analysis, topic modeling, probabilistic models, sequencial models for both analysis and interction with a computer or AI through language
                                    </p>
                                    
         
@@ -130,7 +129,7 @@ export class Main extends Component {
                                 MOOCS(like cousera), YouTube, books and written articles, which in turn developed my high intution for finding answers, data and fixing problems
                              </p>
                              <p>
-                                 Besides coding and thinking, i enjoy a rich and healthy social life, i love meeting new people, visiting my fam,
+                                 Besides coding and thinking, i enjoy a rich and healthy social life, i love meeting new people, visiting my family,
                                  going to the beach or playing/learning piano, i also love to travel and seeing new places.
                              </p>
         
@@ -140,22 +139,22 @@ export class Main extends Component {
                        </section>
         
                        {/* my work sec */}
-                       <section class="my-work" id="work">
+                       <section className="my-work" id="work">
                            <h2 className="section__title section__title--work">My work</h2>
                            <p className="section__subtitle  section__subtitle--work">A selection of my range of work</p>
         
                            <div className="portfolio">
                                {/* portfolio item */}
-                               <a className="portfolio__item" onClick={this.where.bind(this, "one")} >
+                               <a className="portfolio__item cursor-point" href="#" onClick={this.where.bind(this, "one")} >
                                <img src={require("./img/Admin.png")} alt="" className="portfolio__img"></img>
                                </a>
         
                                {/* portfolio item */}
-                               <a className="portfolio__item" onClick={this.where.bind(this, "two")}>
+                               <a className="portfolio__item"  href="#" onClick={this.where.bind(this, "two")}>
                                <img src={require("./img/Dope bot.jpg")} alt="" className="portfolio__img"></img>
                                </a>
                                 
-                               <a className="portfolio__item" onClick={this.where.bind(this, "three")}>
+                               <a className="portfolio__item" href='#' onClick={this.where.bind(this, "three")}>
                                <img src={require("./img/Random vs MinMax.png")} alt="" className="portfolio__img"></img>
                                </a>
         

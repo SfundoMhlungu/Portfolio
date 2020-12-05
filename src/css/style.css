@@ -410,15 +410,26 @@ header {
 .portfolio {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* grid-template-rows: repeat(8, 10vw); */
+    /* grid-gap: 15px;  */
+}
+
+.cursor-point {
+    cursor: pointer;
 }
 
 .portfolio__item {
-    background: var(--clr-accent);
+    background: var(--clr-dark);
     overflow: hidden;
 }
 
 .portfolio__img {
     transition: transform 750ms cubic-bezier(.5, 0, .5, 1), opacity 250ms linear;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .portfolio__item:focus {
